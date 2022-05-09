@@ -5,7 +5,7 @@
 奈飞解锁检测请运行如下命令：
 
 ```
-wget -qO- https://raw.githubusercontent.com/JasonHe/netflix-verify/main/nf.sh | bash
+wget -qO- https://github.com/JasonHe/netflix-verify/raw/main/nf.sh | bash
 ```
 
 使用完毕后可执行 rm ./nf 删除二进制文件。
